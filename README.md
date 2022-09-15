@@ -1,1 +1,1 @@
-# CSC-340-API-Prototype
+# CSC-340 API Prototype
